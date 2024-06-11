@@ -1,2 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+C:/Users/User/Documents/Python_Scripts/Main_AI_GIT/abstractprocessed_sample.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/User/Documents/Python_Scripts/Main_AI_GIT/arxiv_sample.json filter=lfs diff=lfs merge=lfs -text
